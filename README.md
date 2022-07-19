@@ -10,6 +10,7 @@ Utilizarei o modelo de Suport Vector Machines provido da biblioteca scikit-learn
 O modelo de regressão logística também é provido da biblioteca scikit-learn e tem como objetivo prever um resultado binário, ou seja, apenas 0's e 1's. Neste caso, 0 é pessoas que não possuem doenças cardíacas e 1 pessoas que possuem.
 
 ## Bibliotecas utilizadas
+* [PANDAS](https://pandas.pydata.org/)
 * [SEABORN](https://seaborn.pydata.org/)
 * [SCIKIT-LEARN](https://scikit-learn.org/stable/)
 * [MATPLOTLIB](https://matplotlib.org/)
